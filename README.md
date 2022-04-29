@@ -1,6 +1,6 @@
-- #DEVOPS
-- #Frontend
-- #Backend
+- # DEVOPS
+- # Frontend
+- # Backend
 - 👋 Hi, I’m @ShivamRana207
 - 👀 I’m interested in Full-Stack Development and Devops.
 - 🌱 I’m currently learning React MERN, Stack, JavaScript
